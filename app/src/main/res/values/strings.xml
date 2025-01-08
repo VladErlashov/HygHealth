@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HygHealth</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Профиль</string>
+    <string name="title_dashboard">Тренировки</string>
+    <string name="title_notifications">Уведомления</string>
+</resources>
